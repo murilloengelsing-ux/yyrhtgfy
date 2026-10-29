@@ -64,9 +64,9 @@ Resultado: 15.0
 
 ## Autor
 
-Nome: [Digite seu nome completo]
+Nome: murillo engelsing
 
-Curso: [Digite o nome do seu curso]
+Curso: desenvolvimento de sistemas 
 
 ## Licença
 
